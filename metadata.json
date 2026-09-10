@@ -1,0 +1,8 @@
+{
+  "name": "CareerGap AI",
+  "description": "Personalized Skill Gap Intelligence & LinkedIn Company Hiring Matcher for Career Readiness",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
